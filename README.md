@@ -24,4 +24,4 @@ A premium luxury car rental website built with Framer.
 ![Footer](footer.PNG)
 
 ## 👩‍💻 Author
-**InshaalBukhari**
+**InshalBukhari**
