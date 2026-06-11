@@ -17,7 +17,11 @@ A premium luxury car rental website built with Framer.
 - UI/UX Design
 
 ## 📸 Preview
-[Add screenshot here]
+![Hero](Hero.PNG)
+![Featured](Featured.PNG)
+![About](About.PNG)
+![Client](Client.PNG)
+![Footer](footer.PNG)
 
 ## 👩‍💻 Author
 **InshaalBukhari**
